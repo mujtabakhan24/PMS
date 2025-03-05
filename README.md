@@ -1,1 +1,1 @@
-First Semester Project (Pharmacy MAnagement System)
+First Semester Project (Pharmacy Management System)
